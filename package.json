@@ -11,6 +11,9 @@
     "feathers-plugin"
   ],
   "license": "MIT",
+  "publishConfig": {
+    "registry": "https://repo.futureschool.com/repository/npm-private/"
+  },
   "repository": {
     "type": "git",
     "url": "git://github.com/feathersjs-ecosystem/feathers-vuex.git"
