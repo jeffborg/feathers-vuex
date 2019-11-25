@@ -1,5 +1,5 @@
 {
-  "name": "feathers-vuex",
+  "name": "@exemplar-education/feathers-vuex",
   "description": "FeathersJS, Vue, and Nuxt for the artisan developer",
   "version": "2.2.6-0",
   "homepage": "https:feathers-vuex.feathersjs-ecosystem.com",
